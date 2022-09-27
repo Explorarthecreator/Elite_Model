@@ -322,6 +322,7 @@ nav ul{
     background-color: #FF6841;
     margin-bottom: 100px;
     text-align: center;
+    padding-top: 20px;
 }
 .newsletter h1{
     font-size: 48px;
@@ -337,7 +338,7 @@ nav ul{
     width: 90%;
     height: 65px;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 60px;
     text-align: left;
     display: flex;
     justify-content: space-between;
