@@ -9,7 +9,7 @@ body{
     overflow-x: hidden;
 }
 nav{
-    height: 62px;
+    /* height: 62px; */
     width: 85%;
     margin: auto;
     display: flex;
