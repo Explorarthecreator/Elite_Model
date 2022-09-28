@@ -6,6 +6,7 @@ body{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
 }
 nav{
     height: 62px;
